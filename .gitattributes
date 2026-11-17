@@ -1,0 +1,12 @@
+* text=auto
+
+*.py text diff=python
+*.md text
+*.txt text
+
+*.db binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
